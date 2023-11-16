@@ -1,3 +1,6 @@
+// https://unpkg.co/gsap@3/dist/gsap.min.js
+// https://assets.codepen.io/16327/ScrollTrigger.min.js
+
 gsap.registerPlugin(ScrollTrigger);
 
 const container = document.querySelector(".container");
